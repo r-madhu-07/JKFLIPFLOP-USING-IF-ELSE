@@ -66,7 +66,8 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot 2025-05-05 134754](https://github.com/user-attachments/assets/f3f6625d-fce0-4879-b2bc-8a98a7da086f)
+![image](https://github.com/user-attachments/assets/9c1105fa-7d8d-46cc-bedd-71d09c4661d6)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
